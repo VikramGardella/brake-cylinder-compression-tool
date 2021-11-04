@@ -1,6 +1,6 @@
 # brake-cylinder-compression-tool
 
-This is a universal 3D model file for it in ".stl" format.
+This is a universal 3D model file for a 3D-printable tool to compress the brake cylinders on the 10th generation Honda Accord in ".stl" format.
 
 Directions to 3D print from your own printer:
 1) Download a free 3D printing software, like "MatterControl 2.0" if you don't already have one that does "slicing" (compiling ".gcode" file from 3D model data like ".stl" files)
@@ -11,7 +11,7 @@ Directions to 3D print from your own printer:
     Material: PLA
     Extruder Temperature: 210 Degrees Celsius
     Bed Temperature: 60 Degrees Celsius
-    Layer Height: 0.2mm
+    Layer Height: 0.1mm
     Infill Density: 100%
     
 5) "Slice" to compile into ".gcode" (detailed operating instructions for a specific printer make and model which you can pick from in the softwares that do "splicing" like MatterControl 2.0 etc.)
